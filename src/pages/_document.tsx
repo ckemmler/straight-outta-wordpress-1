@@ -18,9 +18,9 @@ class MyDocument extends Document {
         <Head>
           <link
             rel='preload'
-            href='/fonts/inter-var-latin.woff2'
+            href='/fonts/Basetica-reg.woff'
             as='font'
-            type='font/woff2'
+            type='font/woff'
             crossOrigin='anonymous'
           />
         </Head>
